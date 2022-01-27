@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31409.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KitchenRouter", "KitchenRouter\KitchenRouter.csproj", "{D13A9F54-8203-4CC1-BE80-9310BEFCA7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitchenRouterTest", "KitchenRouterTest\KitchenRouterTest.csproj", "{F626B908-5C61-4456-9B9F-ED11CE3F2F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13A9F54-8203-4CC1-BE80-9310BEFCA7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13A9F54-8203-4CC1-BE80-9310BEFCA7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13A9F54-8203-4CC1-BE80-9310BEFCA7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13A9F54-8203-4CC1-BE80-9310BEFCA7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F626B908-5C61-4456-9B9F-ED11CE3F2F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F626B908-5C61-4456-9B9F-ED11CE3F2F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F626B908-5C61-4456-9B9F-ED11CE3F2F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F626B908-5C61-4456-9B9F-ED11CE3F2F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24DD0171-6E46-4657-A673-C26F5E629226}
+	EndGlobalSection
+EndGlobal

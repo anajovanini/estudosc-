@@ -1,0 +1,13 @@
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\obj\Debug\netcoreapp3.1\KitchenRouter.csprojAssemblyReference.cache
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\obj\Debug\netcoreapp3.1\KitchenRouter.AssemblyInfoInputs.cache
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\obj\Debug\netcoreapp3.1\KitchenRouter.AssemblyInfo.cs
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\obj\Debug\netcoreapp3.1\KitchenRouter.csproj.CoreCompileInputs.cache
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\bin\Debug\netcoreapp3.1\KitchenRouter.exe
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\bin\Debug\netcoreapp3.1\KitchenRouter.deps.json
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\bin\Debug\netcoreapp3.1\KitchenRouter.runtimeconfig.json
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\bin\Debug\netcoreapp3.1\KitchenRouter.runtimeconfig.dev.json
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\bin\Debug\netcoreapp3.1\KitchenRouter.dll
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\bin\Debug\netcoreapp3.1\KitchenRouter.pdb
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\obj\Debug\netcoreapp3.1\KitchenRouter.dll
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\obj\Debug\netcoreapp3.1\KitchenRouter.pdb
+D:\Users\ana.jovanini\source\repos\KitchenRouter\KitchenRouter\obj\Debug\netcoreapp3.1\KitchenRouter.genruntimeconfig.cache
